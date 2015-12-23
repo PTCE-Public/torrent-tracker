@@ -1,11 +1,10 @@
 {
   "_args": [
     [
-      "torrent-tracker@git+https://github.com/popcorntimece/torrent-tracker.git",
-      "c:\\Users\\tcoch\\Documents\\Development\\build\\node_modules\\torrent-tracker-health"
+      "torrent-tracker@git+https://github.com/PTCE-Public/torrent-tracker.git"
     ]
   ],
-  "_from": "git+https://github.com/popcorntimece/torrent-tracker.git",
+  "_from": "git+https://github.com/PTCE-Public/torrent-tracker.git",
   "_id": "torrent-tracker@0.0.7",
   "_inCache": true,
   "_installable": true,
@@ -19,31 +18,30 @@
   "_phantomChildren": {},
   "_requested": {
     "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/popcorntimece/torrent-tracker/master/package.json",
-      "gitUrl": "git://github.com/popcorntimece/torrent-tracker.git",
-      "httpsUrl": "git+https://github.com/popcorntimece/torrent-tracker.git",
-      "shortcut": "github:popcorntimece/torrent-tracker",
-      "ssh": "git@github.com:popcorntimece/torrent-tracker.git",
-      "sshUrl": "git+ssh://git@github.com/popcorntimece/torrent-tracker.git",
+      "directUrl": "https://raw.githubusercontent.com/PTCE-Public/torrent-tracker/master/package.json",
+      "gitUrl": "git://github.com/PTCE-Public/torrent-tracker.git",
+      "httpsUrl": "git+https://github.com/PTCE-Public/torrent-tracker.git",
+      "shortcut": "github:PTCE-Public/torrent-tracker",
+      "ssh": "git@github.com:PTCE-Public/torrent-tracker.git",
+      "sshUrl": "git+ssh://git@github.com/PTCE-Public/torrent-tracker.git",
       "type": "github"
     },
     "name": "torrent-tracker",
-    "raw": "torrent-tracker@git+https://github.com/popcorntimece/torrent-tracker.git",
-    "rawSpec": "git+https://github.com/popcorntimece/torrent-tracker.git",
+    "raw": "torrent-tracker@git+https://github.com/PTCE-Public/torrent-tracker.git",
+    "rawSpec": "git+https://github.com/PTCE-Public/torrent-tracker.git",
     "scope": null,
-    "spec": "git+https://github.com/popcorntimece/torrent-tracker.git",
+    "spec": "git+https://github.com/PTCE-Public/torrent-tracker.git",
     "type": "hosted"
   },
   "_requiredBy": [
     "/torrent-tracker-health"
   ],
-  "_resolved": "git+https://github.com/popcorntimece/torrent-tracker.git#8e987421dab9300fb43ebbfe9290fe063a4f071b",
+  "_resolved": "git+https://github.com/PTCE-Public/torrent-tracker.git#8e987421dab9300fb43ebbfe9290fe063a4f071b",
   "_shasum": "743826fc306182df972d475bc91c13798df4d6ce",
   "_shrinkwrap": null,
-  "_spec": "torrent-tracker@git+https://github.com/popcorntimece/torrent-tracker.git",
-  "_where": "c:\\Users\\tcoch\\Documents\\Development\\build\\node_modules\\torrent-tracker-health",
+  "_spec": "torrent-tracker@git+https://github.com/PTCE-Public/torrent-tracker.git",
   "bugs": {
-    "url": "https://github.com/popcorntimece/torrent-tracker/issues"
+    "url": "https://github.com/PTCE-Public/torrent-tracker/issues"
   },
   "dependencies": {
     "bencode": "^0.7.0",
@@ -61,7 +59,7 @@
     "tarball": "http://registry.npmjs.org/torrent-tracker/-/torrent-tracker-0.0.7.tgz"
   },
   "gitHead": "249683a14fe1a42c46305195644b89f31221ebbb",
-  "homepage": "https://github.com/popcorntimece/torrent-tracker#readme",
+  "homepage": "https://github.com/PTCE-Public/torrent-tracker#readme",
   "keywords": [
     "bittorrent",
     "http",
@@ -84,7 +82,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/popcorntimece/torrent-tracker.git"
+    "url": "git+https://github.com/PTCE-Public/torrent-tracker.git"
   },
   "scripts": {},
   "version": "0.0.7"
