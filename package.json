@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      "torrent-tracker@git+https://github.com/popcorntimece/torrent-tracker.git",
+      "c:\\Users\\tcoch\\Documents\\Development\\build\\node_modules\\torrent-tracker-health"
+    ]
+  ],
+  "_from": "git+https://github.com/popcorntimece/torrent-tracker.git",
+  "_id": "torrent-tracker@0.0.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/torrent-tracker",
+  "_nodeVersion": "0.12.1",
+  "_npmUser": {
+    "email": "hello@popcorntime.ml",
+    "name": "popcorntimece"
+  },
+  "_npmVersion": "2.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/popcorntimece/torrent-tracker/master/package.json",
+      "gitUrl": "git://github.com/popcorntimece/torrent-tracker.git",
+      "httpsUrl": "git+https://github.com/popcorntimece/torrent-tracker.git",
+      "shortcut": "github:popcorntimece/torrent-tracker",
+      "ssh": "git@github.com:popcorntimece/torrent-tracker.git",
+      "sshUrl": "git+ssh://git@github.com/popcorntimece/torrent-tracker.git",
+      "type": "github"
+    },
+    "name": "torrent-tracker",
+    "raw": "torrent-tracker@git+https://github.com/popcorntimece/torrent-tracker.git",
+    "rawSpec": "git+https://github.com/popcorntimece/torrent-tracker.git",
+    "scope": null,
+    "spec": "git+https://github.com/popcorntimece/torrent-tracker.git",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/torrent-tracker-health"
+  ],
+  "_resolved": "git+https://github.com/popcorntimece/torrent-tracker.git#8e987421dab9300fb43ebbfe9290fe063a4f071b",
+  "_shasum": "743826fc306182df972d475bc91c13798df4d6ce",
+  "_shrinkwrap": null,
+  "_spec": "torrent-tracker@git+https://github.com/popcorntimece/torrent-tracker.git",
+  "_where": "c:\\Users\\tcoch\\Documents\\Development\\build\\node_modules\\torrent-tracker-health",
+  "bugs": {
+    "url": "https://github.com/popcorntimece/torrent-tracker/issues"
+  },
+  "dependencies": {
+    "bencode": "^0.7.0",
+    "compact2string": "^1.4.0",
+    "hat": "0.0.3",
+    "request": "^2.60.0",
+    "underscore": "^1.8.3",
+    "urijs": "^1.17.0"
+  },
+  "description": "Library to query both UDP and HTTP trackers",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "eb7b9e04b1730a9197fe23f1f1c54f9618aa577f",
+    "tarball": "http://registry.npmjs.org/torrent-tracker/-/torrent-tracker-0.0.7.tgz"
+  },
+  "gitHead": "249683a14fe1a42c46305195644b89f31221ebbb",
+  "homepage": "https://github.com/popcorntimece/torrent-tracker#readme",
+  "keywords": [
+    "bittorrent",
+    "http",
+    "scrape",
+    "swarm",
+    "torrent",
+    "tracker",
+    "udp"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "popcorntimece",
+      "email": "hello@popcorntime.ml"
+    }
+  ],
+  "name": "torrent-tracker",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popcorntimece/torrent-tracker.git"
+  },
+  "scripts": {},
+  "version": "0.0.7"
+}
